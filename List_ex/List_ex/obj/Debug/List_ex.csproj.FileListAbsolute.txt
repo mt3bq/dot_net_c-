@@ -1,0 +1,6 @@
+C:\Users\v\Desktop\Full Stack\c#\List_ex\List_ex\bin\Debug\List_ex.exe.config
+C:\Users\v\Desktop\Full Stack\c#\List_ex\List_ex\obj\Debug\List_ex.csprojResolveAssemblyReference.cache
+C:\Users\v\Desktop\Full Stack\c#\List_ex\List_ex\bin\Debug\List_ex.exe
+C:\Users\v\Desktop\Full Stack\c#\List_ex\List_ex\bin\Debug\List_ex.pdb
+C:\Users\v\Desktop\Full Stack\c#\List_ex\List_ex\obj\Debug\List_ex.exe
+C:\Users\v\Desktop\Full Stack\c#\List_ex\List_ex\obj\Debug\List_ex.pdb

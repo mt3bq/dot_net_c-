@@ -1,0 +1,6 @@
+C:\Users\v\Desktop\Full Stack\c#\ex_2\ex_2\bin\Debug\ex_2.exe.config
+C:\Users\v\Desktop\Full Stack\c#\ex_2\ex_2\obj\Debug\ex_2.csprojResolveAssemblyReference.cache
+C:\Users\v\Desktop\Full Stack\c#\ex_2\ex_2\bin\Debug\ex_2.exe
+C:\Users\v\Desktop\Full Stack\c#\ex_2\ex_2\bin\Debug\ex_2.pdb
+C:\Users\v\Desktop\Full Stack\c#\ex_2\ex_2\obj\Debug\ex_2.exe
+C:\Users\v\Desktop\Full Stack\c#\ex_2\ex_2\obj\Debug\ex_2.pdb

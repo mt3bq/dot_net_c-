@@ -1,0 +1,6 @@
+C:\Users\v\Desktop\Full Stack\c#\Absandsealed\Absandsealed\bin\Debug\Absandsealed.exe.config
+C:\Users\v\Desktop\Full Stack\c#\Absandsealed\Absandsealed\bin\Debug\Absandsealed.exe
+C:\Users\v\Desktop\Full Stack\c#\Absandsealed\Absandsealed\bin\Debug\Absandsealed.pdb
+C:\Users\v\Desktop\Full Stack\c#\Absandsealed\Absandsealed\obj\Debug\Absandsealed.csprojResolveAssemblyReference.cache
+C:\Users\v\Desktop\Full Stack\c#\Absandsealed\Absandsealed\obj\Debug\Absandsealed.exe
+C:\Users\v\Desktop\Full Stack\c#\Absandsealed\Absandsealed\obj\Debug\Absandsealed.pdb

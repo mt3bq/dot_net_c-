@@ -1,0 +1,6 @@
+C:\Users\v\Desktop\Full Stack\c#\ex_inter_face\ex_inter_face\bin\Debug\ex_inter_face.exe.config
+C:\Users\v\Desktop\Full Stack\c#\ex_inter_face\ex_inter_face\bin\Debug\ex_inter_face.exe
+C:\Users\v\Desktop\Full Stack\c#\ex_inter_face\ex_inter_face\bin\Debug\ex_inter_face.pdb
+C:\Users\v\Desktop\Full Stack\c#\ex_inter_face\ex_inter_face\obj\Debug\ex_inter_face.csprojResolveAssemblyReference.cache
+C:\Users\v\Desktop\Full Stack\c#\ex_inter_face\ex_inter_face\obj\Debug\ex_inter_face.exe
+C:\Users\v\Desktop\Full Stack\c#\ex_inter_face\ex_inter_face\obj\Debug\ex_inter_face.pdb
